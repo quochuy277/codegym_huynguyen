@@ -5,17 +5,16 @@
     box-sizing: border-box;
 }
 html{
-    font-family:sans-serif;
     line-height:1.15;
 }
 body{
-    font-family:Arial,sans-serif;
+    font-family:Arial;
     font-size:13px;
     font-weight:400;
 }
 .container{
     margin: 0 auto;
-    width: 1142px;
+    width: 70%;
 }
 :root{}
 
@@ -53,7 +52,6 @@ header{}
     position: relative;
     margin-top: 8px;
     /* background-color: red; */
-    
 }
 input{
     width: 100%;
@@ -129,12 +127,22 @@ button{
     font-size: 20px;
 }
 .header__navbar .container{}
+/* ==== LINE ==== */
+.white-line{
+    background-color: white;
+    width: 100%;
+    height: 36px;
+}
 
 /* ==== NEWS ==== */
 .news{}
 .news a{
     text-decoration: none;
+    color: black;
 }
+/* .news ul,li{
+    list-style: none;
+} */
 .news .container{
     display: flex;
     align-items: center;
@@ -148,10 +156,13 @@ button{
     display: block;
 }
 .news .container .news__left .news__left-title{
-    display: block;
     font-size: 24px;
-    color: black;
+    
 }
+.news .container .news__left p{
+    font-size: 15px;
+}
+
 .news .news__center{
     width: 25%;
 }
