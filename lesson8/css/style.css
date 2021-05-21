@@ -1,0 +1,34 @@
+/* ==== GOBAL ==== */
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+html{}
+body{
+   
+    
+}
+.container{
+    margin: 0 auto;
+    width: 80%;
+    display:  flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+/* ==== LEFT ==== */
+.body__left{
+    width: 70%;
+ }
+.body__left-notice{ }
+
+.body__left-notice p:first-child{
+    background-color: green;
+}
+.fa-check-square{ }
+.body__left-form{ }
+.body__left-table{ }
+.body__left-heading{ }
+.heading__quote{ }
+.body__left-heading2{ }
