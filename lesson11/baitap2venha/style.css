@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{}
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+h3,p{
+    color: #0000FF;
+    font-size: 15px;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+table,tr,td{
+    border: 1px solid #d7d7d7;
+    border-collapse: collapse;
+    text-align: left;
+}
+.title td{
+    background-color: #65A530;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+.sub-title td{
+    background-color: #FFFFBB;
+    text-align: center;
+    font-weight: 600;
+}
+.club{
+    font-weight: bold;
+}
+.stt{
+    text-align: center;
+}
+.top4{
+    background-color: #D5FFFF;
+}
+.top5{
+    background-color: #E8F5DE;
+}
+.top6{
+    background-color: #d7d7d7;
+}
+.topcuoi{
+    background-color: #ffeaea;
+}
+tr:last-child td{
+    background-color: #65A530;
+    color: white;
+    text-align: center;
+}

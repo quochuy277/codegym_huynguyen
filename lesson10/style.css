@@ -1,0 +1,16 @@
+body{
+    background-image: url("./img/background.jpg");
+}
+h3{
+    color: brown;
+    text-align: center;
+}
+p{
+    color: blueviolet;
+    text-decoration: wavy;
+    text-align: center;
+}
+.tinh{
+    color: green;
+
+}
