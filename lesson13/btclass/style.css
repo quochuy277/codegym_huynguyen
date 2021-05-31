@@ -1,0 +1,151 @@
+#all{
+    margin: auto;
+}
+.xam{
+    width: 50px;
+    height: 100px;
+    background-color: gray;
+}
+.cot1{
+    float: left;
+}
+.cot2{
+    float: right;
+}
+.dong1{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    margin: 0 auto;
+}
+.dong2{
+    width: 150px;
+    height: 100px;
+    margin: 0 auto;
+}
+.dong3{
+    height: 50px;
+    width: 250px;
+    background-color: red;
+    margin: 0 auto;
+}
+.dong4{
+    width: 250px;
+    height: 100px;
+    margin: 0 auto;
+}
+.dong5{
+    height: 50px;
+    width: 350px;
+    background-color: red;
+    margin: 0 auto;
+}
+.dong6{
+    width: 350px;
+    height: 100px;
+    margin: 0 auto;
+}
+/* ============ BAI TAP 4 ================ */
+
+.container{
+    margin: auto;
+ }
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: red;
+ }
+.content{ 
+    width: 95%;
+    margin: 0 auto;
+}
+.banner{
+    width: 100%;
+    height: 200px;
+ }
+.banner-left{ 
+    width: 75%;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+.banner-right{ 
+    width: 25%;
+    float: left;
+}
+.green1{
+    background-color: green;
+    height: 120px;
+ }
+.yellow{ 
+    background-color: yellow;
+    height: 80px;
+}
+.body{
+    width: 100%;
+    height: 300px;
+}
+.body-left{ 
+    width: 50%;
+    float: left;
+}
+.left-top{
+    width: 100%;
+    background-color: green;
+    height: 180px;
+ }
+.left-down{
+    width: 100%;
+    
+ }
+.pink{ 
+    width: 50%;
+    height: 120px;
+    background-color: pink;
+    float: left;
+}
+.orange{
+    width: 50%;
+    height: 120px;
+    background-color: orange;
+    float: left;
+ }
+.body-right{ 
+    width: 50%;
+    float: left;
+    background-color: aqua;
+}
+.right-top{ 
+    width: 100%;
+    height: 200px;
+}
+.top-red{ 
+    width: 50%;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+.top-fix{
+    width: 50%;
+    float: left;
+ }
+.orange2{ 
+    width: 100%;
+    height: 90px;
+    background-color: orange;
+}
+.green3{ 
+    height: 110px;
+    background-color: green;
+}
+.pink2{ 
+    width: 100%;
+    height: 100px;
+    background-color: pink;
+}
+.footer{ 
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    
+}
